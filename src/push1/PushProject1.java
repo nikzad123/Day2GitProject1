@@ -6,5 +6,11 @@ public class PushProject1 {
 		
 		System.out.println("New Push Project.....");
 	}
-
+    public void addPush() {
+    	System.out.println("New Stush....");
+    }
+    
+    public void addNew() {
+    	System.out.println("New Project of Stush");
+    }
 }
